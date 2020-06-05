@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+				<title>Fabio de Carvalho, 28 anos, Empreendedor</title>
+	</head>
+	<body>
+			
+			
+			<br><h1 style="font-family:Verdana">Bem vindos!!!</h1>
+				<a href="https://www.facebook.com/fabio.pegoraro.1" target="_blank">
+			<img src="https://scontent.fcgh11-1.fna.fbcdn.net/v/t1.0-9/92462270_122406522744167_3650206577891213312_n.jpg?_nc_cat=101&amp;_nc_sid=85a577&amp;_nc_eui2=AeGrGxfMx3x0_EBxu_OlebEJVpyHn7fak25WnIeft9qTbsOfqKDIpuNr0IG6zoAwG_13hBvEWW1N9FLXMZnfdIT0&amp;_nc_ohc=4Yzh9VKFc6wAX-0TazT&amp;_nc_ht=scontent.fcgh11-1.fna&amp;oh=80a4b7db11317cee582387366a6b5267&amp;oe=5ED9557C" style="width: 300px; height: 300px">
+			</a>
+
+			<h2 style="font-family:Verdana" color:"red">Saibam um pouco mais sobre mim:</h2>
+				
+
+				<p>Meu nome é <b>Fabio de Carvalho</b>, hoje tenho uma empresa de buffet de churrasco, trabalho no ramo a mais de 10 anos, 
+		porem sempre me interessei por tecnologia e programação, mas nunca tive a oportunidade de me desenvolver nessa area e acredito 
+		que essa da <b><i>Arbyte</i></b> irá ser uma otima oportunidade para isso.
+			</p><br>
+		
+			<p style="font-family:Verdana"> <b><i>Interesses Pessoais:</p>						
+		<ul>										
+			<li style="font-family:Courier">Jogar Bola 						
+			<li style="font-family:Courier">Saber sobre novas tecnologias 			
+			<li style="font-family:Courier">Churrasco							
+			<li style="font-family:Courier">Assisir séries		
+		</ul><br>
+			
+			<p style="font-family:Verdana> <b><i>Qualidade e Defeitos:</p>
+		<ul>	
+			
+			<li style="font-family:Courier">Profissional
+			<li style="font-family:Courier">Empenhado
+			<li style="font-family:Courier">Gosto de aprender coisas novas
+			<li style="font-family:Courier">As vezes me perco no que estou fazendo e começo a fazer outras coisas
+			<li style="font-family:Courier">Sou muito fechado com pessoas que não conheço
+			<li style="font-family:Courier">Um pouco estressado quando as coisas não vão bem</p>
+		</ul>
+		<br>
+			
+			<h3> style="font-family:Verdana> <b><i>Conquistas:</b></i></h3>
+			
+			
+			
+		
+	
+	
+		<p style="color:Blue"><b><i>Redes Sociais:</p>
+		<a href="https://www.facebook.com/fabio.pegoraro.1" target="_blank">
+		
+		
+		</a>
+
+
+
+	</body>
+</html>
